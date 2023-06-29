@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
@@ -8,7 +8,7 @@ SITEURL = 'kholdfuzion.net'
 THEME = "themes/blueidea"
 PATH = 'content'
 
-STATIC_PATHS = ['images', 'icons', 'downloads', 'feeds', 'mc']
+STATIC_PATHS = ['images', 'icons', 'feeds']
 
 TIMEZONE = 'US/Central'
 
